@@ -1,0 +1,401 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADD_TIMER_FAILED	common.h	/^		ADD_TIMER_FAILED = -2,$/;"	e	enum:errorType
+ATTR_ADD_TIMER_FAILED	common.h	/^	ATTR_ADD_TIMER_FAILED = 212346,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_CACHE_CONT_ERR	common.h	/^	ATTR_CACHE_CONT_ERR = 212358,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_CACHE_HIT_NUM	common.h	/^	ATTR_CACHE_HIT_NUM = 212359,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_DB_MAP_INFO_FAILED	common.h	/^	ATTR_DB_MAP_INFO_FAILED = 212355,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_DB_SVR_INFO_FAILED	common.h	/^	ATTR_DB_SVR_INFO_FAILED = 209268,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_DB_TAG_TOP_RATE_FAILED	common.h	/^	ATTR_DB_TAG_TOP_RATE_FAILED = 215272,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_DM_USER_INFO_FETCH	common.h	/^	ATTR_DM_USER_INFO_FETCH = 215073,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_DM_USER_INFO_FETCH_ERROR	common.h	/^	ATTR_DM_USER_INFO_FETCH_ERROR = 215090,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_DM_USER_INFO_FETCH_MISS	common.h	/^	ATTR_DM_USER_INFO_FETCH_MISS = 215074,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_ID_ENUM	common.h	/^enum ATTR_ID_ENUM{$/;"	g
+ATTR_MAP_CONTEXT_MISS	common.h	/^	ATTR_MAP_CONTEXT_MISS = 212926, $/;"	e	enum:ATTR_ID_ENUM
+ATTR_OITIMER_FAILED	common.h	/^	ATTR_OITIMER_FAILED = 212367,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_OITIMER_MISSED	common.h	/^	ATTR_OITIMER_MISSED = 212366,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_OMG_INTER_MISS	common.h	/^	ATTR_OMG_INTER_MISS = 212373,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_OMG_INTER_OITIMER_EXPIRE	common.h	/^	ATTR_OMG_INTER_OITIMER_EXPIRE = 212342,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_OMG_INTER_PARSE_FAILED	common.h	/^	ATTR_OMG_INTER_PARSE_FAILED = 212377,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_PACK_PB_FAILED	common.h	/^	ATTR_PACK_PB_FAILED = 212352,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_PARSE_OMG_INTEREST	common.h	/^	ATTR_PARSE_OMG_INTEREST = 212372,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_PARSE_QQGROUP_INTEREST	common.h	/^	ATTR_PARSE_QQGROUP_INTEREST = 217496,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_PARSE_TEG_INTEREST	common.h	/^	ATTR_PARSE_TEG_INTEREST = 212371,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_PARSE_TEG_PROF	common.h	/^	ATTR_PARSE_TEG_PROF = 212370,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_PB_PARSE_FAILED	common.h	/^	ATTR_PB_PARSE_FAILED = 212343,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_QQGROUP_INTER_MISS	common.h	/^	ATTR_QQGROUP_INTER_MISS = 217498,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_QQGROUP_INTER_PARSE_FAILED	common.h	/^	ATTR_QQGROUP_INTER_PARSE_FAILED = 217497,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_ALL_REQ	common.h	/^	ATTR_RECV_ALL_REQ = 212350,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_FAILED	common.h	/^	ATTR_RECV_FAILED = 212344,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_OMG_INTEREST_REQ	common.h	/^	ATTR_RECV_OMG_INTEREST_REQ = 212349,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_PKG_ERR	common.h	/^	ATTR_RECV_PKG_ERR = 212345,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_RENEW_INTEREST_INFO	common.h	/^	ATTR_RECV_RENEW_INTEREST_INFO = 212369,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_RENEW_PROF_INFO	common.h	/^	ATTR_RECV_RENEW_PROF_INFO = 212368,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_INTEREST_ERR	common.h	/^	ATTR_RECV_TEG_INTEREST_ERR = 212363,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_INTEREST_REQ	common.h	/^	ATTR_RECV_TEG_INTEREST_REQ = 212348,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_INTEREST_RES	common.h	/^	ATTR_RECV_TEG_INTEREST_RES = 212362,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_PROF_ERR	common.h	/^	ATTR_RECV_TEG_PROF_ERR = 212361,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_PROF_REQ	common.h	/^	ATTR_RECV_TEG_PROF_REQ = 212347,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_PROF_RES	common.h	/^	ATTR_RECV_TEG_PROF_RES = 212360,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_RSP	common.h	/^	ATTR_RECV_TEG_RSP = 212356,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RECV_TEG_RSP_CONT_ERR	common.h	/^	ATTR_RECV_TEG_RSP_CONT_ERR = 212357,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_REDIS_CONN_FAILED	common.h	/^	ATTR_REDIS_CONN_FAILED = 212374,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RSP	common.h	/^	ATTR_RSP = 212353,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_RSP_FAILED	common.h	/^	ATTR_RSP_FAILED = 212354,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_SEND_TEG	common.h	/^	ATTR_SEND_TEG = 212351,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_DATA_MISS	common.h	/^	ATTR_TEG_DATA_MISS = 212927,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_DATA_MISS_TIMEOUT	common.h	/^	ATTR_TEG_DATA_MISS_TIMEOUT = 212928,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_INTEREST_CHCHE_EXPIRE	common.h	/^	ATTR_TEG_INTEREST_CHCHE_EXPIRE = 212365,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_INTEREST_NULL	common.h	/^	ATTR_TEG_INTEREST_NULL = 213972,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_INTER_OITIMER_EXPIRE	common.h	/^	ATTR_TEG_INTER_OITIMER_EXPIRE = 212341,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_INTER_PARSE_FAILED	common.h	/^	ATTR_TEG_INTER_PARSE_FAILED = 212376,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_PROF_CACHE_EXPIRE	common.h	/^	ATTR_TEG_PROF_CACHE_EXPIRE = 212364,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_PROF_OITIMER_EXPIRE	common.h	/^	ATTR_TEG_PROF_OITIMER_EXPIRE = 212340,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_TEG_PROF_PARSE_FAILED	common.h	/^	ATTR_TEG_PROF_PARSE_FAILED = 212375,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_USER_INTEREST_DEFAULT	common.h	/^	ATTR_USER_INTEREST_DEFAULT = 215227,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_USER_PROF_RET_MISS	common.h	/^  	ATTR_USER_PROF_RET_MISS = 216294$/;"	e	enum:ATTR_ID_ENUM
+ATTR_WB_USER_REG_INFO	common.h	/^  	ATTR_WB_USER_REG_INFO = 215417,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_WB_USER_REG_INFO_FAILED	common.h	/^	ATTR_WB_USER_REG_INFO_FAILED = 215418,$/;"	e	enum:ATTR_ID_ENUM
+ATTR_WB_USER_REG_INFO_MISS	common.h	/^  	ATTR_WB_USER_REG_INFO_MISS = 215419,$/;"	e	enum:ATTR_ID_ENUM
+CheckDBChgInfo	configCenter.cpp	/^int LogSvrConfig::CheckDBChgInfo(void)		\/\/main frameword timer recall $/;"	f	class:LogSvrConfig
+CheckHeartBeat	hub.cpp	/^void MainThread::CheckHeartBeat(void)$/;"	f	class:MainThread
+ConnectionList	common.h	/^typedef set<TcpConnectionPtr> ConnectionList;$/;"	t
+ContextInfo	hub.h	/^				ContextInfo(void):m_strRole("unknow"), m_uwTopicID(0), m_lastWorkTime(muduo::Timestamp::now()), m_bCongestion(false){;}$/;"	f	class:ContextInfo
+ContextInfo	hub.h	/^class ContextInfo$/;"	c
+Dispatch	Dispatch.cpp	/^class Dispatch : public boost::enable_shared_from_this<Dispatch>,$/;"	c	file:
+Dispatch	Dispatch.h	/^  Dispatch(muduo::net::EventLoop* loop,$/;"	f	class:Dispatch
+Dispatch	Dispatch.h	/^class Dispatch : public boost::enable_shared_from_this<Dispatch>,$/;"	c
+ERR_RET	common.h	/^	ERR_RET = 5,$/;"	e	enum:WorkerThreadRetType
+ExitTask	hub.cpp	/^void MainThread::ExitTask(void)$/;"	f	class:MainThread
+FetchConfigVal	handle_config_file.cpp	/^string HandleConfigFile::FetchConfigVal(const string & strKey)$/;"	f	class:HandleConfigFile
+FetchSvrInfo	configCenter.cpp	/^int LogSvrConfig::FetchSvrInfo(void)$/;"	f	class:LogSvrConfig
+GetAttrDesc	monitorData.h	/^	std::string GetAttrDesc(void){$/;"	f	class:MonitorData
+GetAttrID	monitorData.h	/^	uint32_t GetAttrID(void){$/;"	f	class:MonitorData
+GetCfgDBIp	localCfgFile.h	/^	string GetCfgDBIp(void){$/;"	f	class:LocalCfgFile
+GetCfgDBName	localCfgFile.h	/^	string GetCfgDBName(void){$/;"	f	class:LocalCfgFile
+GetCfgDBPort	localCfgFile.h	/^	uint16_t GetCfgDBPort(void){$/;"	f	class:LocalCfgFile
+GetCfgDBPwd	localCfgFile.h	/^	string GetCfgDBPwd(void){$/;"	f	class:LocalCfgFile
+GetCfgDBUptInterSecs	localCfgFile.h	/^	uint32_t GetCfgDBUptInterSecs(void){$/;"	f	class:LocalCfgFile
+GetCfgDBUser	localCfgFile.h	/^	string GetCfgDBUser(void){$/;"	f	class:LocalCfgFile
+GetChgInfoTabName	localCfgFile.h	/^	string GetChgInfoTabName(void){$/;"	f	class:LocalCfgFile
+GetEventLoop	configCenter.h	/^	muduo::net::EventLoop* GetEventLoop(void){$/;"	f	class:LogSvrConfig
+GetFrontRetPkgExpireTime	configCenter.h	/^	uint32_t GetFrontRetPkgExpireTime(void){$/;"	f	class:LogSvrConfig
+GetFrontRetPkgExpireTime	configCenter.h	/^	uint32_t GetFrontRetPkgExpireTime(void){$/;"	f	class:PubSvrInfo
+GetFrontRetPkgExpireTime	configCenter.h	/^	uint32_t GetFrontRetPkgExpireTime(void){$/;"	f	class:SubSvrInfo
+GetInterCacheExpireTime	configCenter.h	/^	uint32_t GetInterCacheExpireTime(void){$/;"	f	class:LogSvrConfig
+GetInterCacheExpireTime	configCenter.h	/^	uint32_t GetInterCacheExpireTime(void){$/;"	f	class:PubSvrInfo
+GetInterCacheExpireTime	configCenter.h	/^	uint32_t GetInterCacheExpireTime(void){$/;"	f	class:SubSvrInfo
+GetLastChgTime	configCenter.h	/^	uint32_t GetLastChgTime(void){$/;"	f	class:HubSvrInfo
+GetLastChgTime	configCenter.h	/^	uint32_t GetLastChgTime(void){$/;"	f	class:PubSvrInfo
+GetLastChgTime	configCenter.h	/^	uint32_t GetLastChgTime(void){$/;"	f	class:SubSvrInfo
+GetLastLoadTime	configCenter.h	/^	uint32_t GetLastLoadTime(void){$/;"	f	class:PubSvrInfo
+GetLastLoadTime	configCenter.h	/^	uint32_t GetLastLoadTime(void){$/;"	f	class:SubSvrInfo
+GetLocProcLogPath	localCfgFile.h	/^	string GetLocProcLogPath(void){$/;"	f	class:LocalCfgFile
+GetLogLevel	configCenter.h	/^	uint8_t GetLogLevel(void){$/;"	f	class:HubSvrInfo
+GetLogLevel	configCenter.h	/^	uint8_t GetLogLevel(void){$/;"	f	class:LogSvrConfig
+GetLogLevel	configCenter.h	/^	uint8_t GetLogLevel(void){$/;"	f	class:PubSvrInfo
+GetLogLevel	configCenter.h	/^	uint8_t GetLogLevel(void){$/;"	f	class:SubSvrInfo
+GetMainSvrPort	localCfgFile.h	/^	uint16_t GetMainSvrPort(void){$/;"	f	class:LocalCfgFile
+GetManuFetchSvrInfoPort	localCfgFile.h	/^	uint16_t GetManuFetchSvrInfoPort(void){$/;"	f	class:LocalCfgFile
+GetMappingTabName	localCfgFile.h	/^	string GetMappingTabName(void){$/;"	f	class:LocalCfgFile
+GetOMGInterRedisIp	configCenter.h	/^	string GetOMGInterRedisIp(void){$/;"	f	class:LogSvrConfig
+GetOMGInterRedisIp	configCenter.h	/^	string GetOMGInterRedisIp(void){$/;"	f	class:PubSvrInfo
+GetOMGInterRedisIp	configCenter.h	/^	string GetOMGInterRedisIp(void){$/;"	f	class:SubSvrInfo
+GetOMGInterRedisPort	configCenter.h	/^	uint16_t GetOMGInterRedisPort(void){$/;"	f	class:LogSvrConfig
+GetOMGInterRedisPort	configCenter.h	/^	uint16_t GetOMGInterRedisPort(void){$/;"	f	class:PubSvrInfo
+GetOMGInterRedisPort	configCenter.h	/^	uint16_t GetOMGInterRedisPort(void){$/;"	f	class:SubSvrInfo
+GetSrvId	configCenter.h	/^	uint8_t GetSrvId(void){$/;"	f	class:HubSvrInfo
+GetSrvId	configCenter.h	/^	uint8_t GetSrvId(void){$/;"	f	class:PubSvrInfo
+GetSrvId	configCenter.h	/^	uint8_t GetSrvId(void){$/;"	f	class:SubSvrInfo
+GetState	configCenter.h	/^	uint8_t GetState(void){$/;"	f	class:HubSvrInfo
+GetState	configCenter.h	/^	uint8_t GetState(void){$/;"	f	class:PubSvrInfo
+GetState	configCenter.h	/^	uint8_t GetState(void){$/;"	f	class:SubSvrInfo
+GetSvrInfoTabName	localCfgFile.h	/^	string GetSvrInfoTabName(void){$/;"	f	class:LocalCfgFile
+GetSvrIp	localCfgFile.h	/^	string GetSvrIp(void){$/;"	f	class:LocalCfgFile
+GetSvrMonitorPort	localCfgFile.h	/^	uint16_t GetSvrMonitorPort(void){$/;"	f	class:LocalCfgFile
+GetSvrPort	localCfgFile.h	/^	uint16_t GetSvrPort(void){$/;"	f	class:LocalCfgFile
+GetSvrState	configCenter.h	/^	uint8_t GetSvrState(void){$/;"	f	class:LogSvrConfig
+GetTEGInterCachePath	configCenter.h	/^	string GetTEGInterCachePath(void){$/;"	f	class:LogSvrConfig
+GetTEGInterCachePath	configCenter.h	/^	string GetTEGInterCachePath(void){$/;"	f	class:PubSvrInfo
+GetTEGInterCachePath	configCenter.h	/^	string GetTEGInterCachePath(void){$/;"	f	class:SubSvrInfo
+GetTEGUserProfSvrIP	localCfgFile.h	/^	string GetTEGUserProfSvrIP(void){$/;"	f	class:LocalCfgFile
+GetTEGUserProfSvrPort	localCfgFile.h	/^	uint16_t GetTEGUserProfSvrPort(void){$/;"	f	class:LocalCfgFile
+GetTableSvrInfo	configCenter.h	/^	PubSvrInfo &GetTableSvrInfo(void){$/;"	f	class:LogSvrConfig
+GetTagDBIp	localCfgFile.h	/^	string GetTagDBIp(void){$/;"	f	class:LocalCfgFile
+GetTagDBName	localCfgFile.h	/^	string GetTagDBName(void){$/;"	f	class:LocalCfgFile
+GetTagDBPort	localCfgFile.h	/^	uint16_t GetTagDBPort(void){$/;"	f	class:LocalCfgFile
+GetTagDBPwd	localCfgFile.h	/^	string GetTagDBPwd(void){$/;"	f	class:LocalCfgFile
+GetTagDBUser	localCfgFile.h	/^	string GetTagDBUser(void){$/;"	f	class:LocalCfgFile
+GetTagTopRateDBName	localCfgFile.h	/^	string GetTagTopRateDBName(void){$/;"	f	class:LocalCfgFile
+GetTagTopRateTabName	localCfgFile.h	/^	string GetTagTopRateTabName(void){$/;"	f	class:LocalCfgFile
+GetTagTopRateVec	configCenter.h	/^	const vector<uint32_t> &GetTagTopRateVec(void){$/;"	f	class:LogSvrConfig
+GetThreadPoolNum	configCenter.h	/^	uint16_t GetThreadPoolNum(void){$/;"	f	class:LogSvrConfig
+GetThreadPoolNum	configCenter.h	/^	uint16_t GetThreadPoolNum(void){$/;"	f	class:PubSvrInfo
+GetThreadPoolNum	configCenter.h	/^	uint16_t GetThreadPoolNum(void){$/;"	f	class:SubSvrInfo
+GetUptInterSecs	localCfgFile.h	/^	uint32_t GetUptInterSecs(void){$/;"	f	class:LocalCfgFile
+HUB_SRC_HUB_H_	hub.h	/^#define HUB_SRC_HUB_H_$/;"	d
+HandleConfigFile	handle_config_file.h	/^class HandleConfigFile$/;"	c
+HubSvrInfo	configCenter.h	/^	HubSvrInfo(void){$/;"	f	class:HubSvrInfo
+HubSvrInfo	configCenter.h	/^class HubSvrInfo$/;"	c
+INCLUDE_ERR	common.h	/^		INCLUDE_ERR = 1,	\/\/partial or all error for req, including oitimer timeout case$/;"	e	enum:errorType
+INTSVR_SRC_CFGCENTER_H_	configCenter.h	/^#define INTSVR_SRC_CFGCENTER_H_$/;"	d
+INTSVR_SRC_COMMON_H_	common.h	/^#define INTSVR_SRC_COMMON_H_$/;"	d
+INTSVR_SRC_HANDLECONFIGFILE_H_	handle_config_file.h	/^#define INTSVR_SRC_HANDLECONFIGFILE_H_$/;"	d
+INTSVR_SRC_LOCALCFGFILE_H_	localCfgFile.h	/^#define INTSVR_SRC_LOCALCFGFILE_H_$/;"	d
+INTSVR_SRC_MONITORDATA_H_	monitorData.h	/^#define INTSVR_SRC_MONITORDATA_H_$/;"	d
+INTSVR_SRC_MONITORTHREAD_H_	monitorThread.h	/^#define INTSVR_SRC_MONITORTHREAD_H_$/;"	d
+Init	configCenter.h	/^	void Init(void){$/;"	f	class:HubSvrInfo
+Init	configCenter.h	/^	void Init(void){$/;"	f	class:PubSvrInfo
+Init	configCenter.h	/^	void Init(void){$/;"	f	class:SubSvrInfo
+InitWithLocCfgFile	localCfgFile.cpp	/^int LocalCfgFile::InitWithLocCfgFile(const string &strCfgFilePath)$/;"	f	class:LocalCfgFile
+LoadConfigFile	handle_config_file.cpp	/^int HandleConfigFile::LoadConfigFile(const string &filePath)$/;"	f	class:HandleConfigFile
+LoadSpecTab	configCenter.cpp	/^int LogSvrConfig::LoadSpecTab(const string &strLoadTabName)		$/;"	f	class:LogSvrConfig
+LocalCfgFile	localCfgFile.h	/^	LocalCfgFile(void):m_uwCfgDBPort(0), m_udwUptInterSecs(0)$/;"	f	class:LocalCfgFile
+LocalCfgFile	localCfgFile.h	/^class LocalCfgFile$/;"	c
+LocalQQSendBlockList	hub.h	/^				typedef muduo::ThreadLocalSingleton< set<uint64_t> > LocalQQSendBlockList;$/;"	t	class:MainThread
+LocalTopic2SubConn	hub.h	/^				typedef muduo::ThreadLocalSingleton< map<uint16_t, TcpConnWeakPtrList> > LocalTopic2SubConn;$/;"	t	class:MainThread
+LogSvrConfig	configCenter.h	/^	LogSvrConfig(void){;}$/;"	f	class:LogSvrConfig
+LogSvrConfig	configCenter.h	/^class LogSvrConfig$/;"	c
+MUDUO_EXAMPLES_HUB_CODEC_H	ParseRecvMsg.h	/^#define MUDUO_EXAMPLES_HUB_CODEC_H$/;"	d
+MUDUO_EXAMPLES_HUB_CODEC_H	hubCodec.h	/^#define MUDUO_EXAMPLES_HUB_CODEC_H$/;"	d
+MUDUO_EXAMPLES_SOCKS4A_TUNNEL_H	Dispatch.h	/^#define MUDUO_EXAMPLES_SOCKS4A_TUNNEL_H$/;"	d
+MainThread	hub.h	/^				MainThread(muduo::net::EventLoop *pEventLoop, muduo::net::EventLoop *pCfgCenterEveLoop, const InetAddress& listenAddr, const InetAddress &recvIndexUptListenAddr)$/;"	f	class:MainThread
+MainThread	hub.h	/^class MainThread$/;"	c
+MessagePtr	common.h	/^typedef boost::shared_ptr<google::protobuf::Message> MessagePtr;$/;"	t
+MonitorData	monitorData.h	/^	MonitorData(const uint32_t &udwAttrID, std::string strAttrDesc = ""):m_udwAttrID(udwAttrID), m_strAttrDesc(strAttrDesc){;}$/;"	f	class:MonitorData
+MonitorData	monitorData.h	/^	MonitorData(void):m_udwAttrID(0){;}$/;"	f	class:MonitorData
+MonitorData	monitorData.h	/^class MonitorData$/;"	c
+MonitorThread	monitorThread.h	/^	MonitorThread(void){;}$/;"	f	class:MonitorThread
+MonitorThread	monitorThread.h	/^class MonitorThread	\/\/use global monitor blocking queue$/;"	c
+MyAsyncOutput	common.cpp	/^void MyAsyncOutput(const char* msg, int len)$/;"	f
+OMG_INTEREST	common.h	/^	OMG_INTEREST = 3,$/;"	e	enum:cmdType
+OMG_INTEREST_RET	common.h	/^	OMG_INTEREST_RET = 3,$/;"	e	enum:WorkerThreadRetType
+PARSE_ERR	common.h	/^		PARSE_ERR = -3,$/;"	e	enum:errorType
+PKG_INVALID	common.h	/^		PKG_INVALID = -1,$/;"	e	enum:errorType
+ParseResult	ParseRecvMsg.h	/^enum ParseResult$/;"	g	namespace:hub
+ParseResult	hubCodec.h	/^enum ParseResult$/;"	g	namespace:pubsub
+PubSvrInfo	configCenter.h	/^	PubSvrInfo(void){$/;"	f	class:PubSvrInfo
+PubSvrInfo	configCenter.h	/^	PubSvrInfo(void){$/;"	f	class:SubSvrInfo
+PubSvrInfo	configCenter.h	/^class PubSvrInfo$/;"	c
+QQGROUP_INTEREST	common.h	/^	QQGROUP_INTEREST = 4$/;"	e	enum:cmdType
+QQGROUP_INTEREST_RET	common.h	/^	QQGROUP_INTEREST_RET = 4,$/;"	e	enum:WorkerThreadRetType
+REQ_NO_USER_INFO	common.h	/^	REQ_NO_USER_INFO = 20007,$/;"	e	enum:REQ_TYPE
+REQ_PROF_1	common.h	/^	REQ_PROF_1 = 10001,$/;"	e	enum:REQ_TYPE
+REQ_PROF_2	common.h	/^	REQ_PROF_2 = 10004,	$/;"	e	enum:REQ_TYPE
+REQ_TEG_INTEREST	common.h	/^	REQ_TEG_INTEREST = 10005,	$/;"	e	enum:REQ_TYPE
+REQ_TYPE	common.h	/^enum REQ_TYPE{$/;"	g
+RET_LN	common.h	/^#define RET_LN(/;"	d
+Run	failParseThread.cpp	/^void MonitorThread::Run(void)$/;"	f	class:MonitorThread
+Run	monitorThread.cpp	/^void MonitorThread::Run(void)$/;"	f	class:MonitorThread
+SetCfgDBIp	localCfgFile.h	/^	void SetCfgDBIp(const string &strCfgDBIp){$/;"	f	class:LocalCfgFile
+SetCfgDBName	localCfgFile.h	/^	void SetCfgDBName(const string &strCfgDBName){$/;"	f	class:LocalCfgFile
+SetCfgDBPort	localCfgFile.h	/^	void SetCfgDBPort(const uint16_t &uwCfgDBPort){$/;"	f	class:LocalCfgFile
+SetCfgDBPwd	localCfgFile.h	/^	void SetCfgDBPwd(const string &strCfgDBPwd){$/;"	f	class:LocalCfgFile
+SetCfgDBUptInterSecs	localCfgFile.h	/^	void SetCfgDBUptInterSecs(const uint32_t &udwCfgDBUptInterSecs){$/;"	f	class:LocalCfgFile
+SetCfgDBUser	localCfgFile.h	/^	void SetCfgDBUser(const string &strCfgDBUser){$/;"	f	class:LocalCfgFile
+SetChgInfoTabName	localCfgFile.h	/^	void SetChgInfoTabName(const string &strChgInfoTabName){$/;"	f	class:LocalCfgFile
+SetFrontRetPkgExpireTime	configCenter.h	/^	void SetFrontRetPkgExpireTime(const uint32_t &udwFrontRetPkgExpireTime){$/;"	f	class:PubSvrInfo
+SetFrontRetPkgExpireTime	configCenter.h	/^	void SetFrontRetPkgExpireTime(const uint32_t &udwFrontRetPkgExpireTime){$/;"	f	class:SubSvrInfo
+SetInterCacheExpireTime	configCenter.h	/^	void SetInterCacheExpireTime(const uint32_t &udwInterCacheExpireTime){$/;"	f	class:PubSvrInfo
+SetInterCacheExpireTime	configCenter.h	/^	void SetInterCacheExpireTime(const uint32_t &udwInterCacheExpireTime){$/;"	f	class:SubSvrInfo
+SetLastChgTime	configCenter.h	/^	void SetLastChgTime(const uint32_t &udwLastChgTime){$/;"	f	class:HubSvrInfo
+SetLastChgTime	configCenter.h	/^	void SetLastChgTime(const uint32_t &udwLastChgTime){$/;"	f	class:PubSvrInfo
+SetLastChgTime	configCenter.h	/^	void SetLastChgTime(const uint32_t &udwLastChgTime){$/;"	f	class:SubSvrInfo
+SetLastLoadTime	configCenter.h	/^	void SetLastLoadTime(const uint32_t &udwLastLoadTime){$/;"	f	class:HubSvrInfo
+SetLastLoadTime	configCenter.h	/^	void SetLastLoadTime(const uint32_t &udwLastLoadTime){$/;"	f	class:PubSvrInfo
+SetLastLoadTime	configCenter.h	/^	void SetLastLoadTime(const uint32_t &udwLastLoadTime){$/;"	f	class:SubSvrInfo
+SetLocProcLogPath	localCfgFile.h	/^	void SetLocProcLogPath(const string &strLocProcLogPath){$/;"	f	class:LocalCfgFile
+SetLogLevel	configCenter.h	/^	void SetLogLevel(const uint8_t &ucLogLevel){$/;"	f	class:HubSvrInfo
+SetLogLevel	configCenter.h	/^	void SetLogLevel(const uint8_t &ucLogLevel){$/;"	f	class:PubSvrInfo
+SetLogLevel	configCenter.h	/^	void SetLogLevel(const uint8_t &ucLogLevel){$/;"	f	class:SubSvrInfo
+SetMainSvrPort	localCfgFile.h	/^	void SetMainSvrPort(const uint16_t &uwMainSvrPort){$/;"	f	class:LocalCfgFile
+SetManuFetchSvrInfoPort	localCfgFile.h	/^	void SetManuFetchSvrInfoPort(const uint16_t &uwManuReadCfgDBSvrPort){$/;"	f	class:LocalCfgFile
+SetMappingTabName	localCfgFile.h	/^	void SetMappingTabName(const string &strMappingTabName){$/;"	f	class:LocalCfgFile
+SetOMGInterRedisIp	configCenter.h	/^	void SetOMGInterRedisIp(const string &strOMGInterRedisIp){$/;"	f	class:PubSvrInfo
+SetOMGInterRedisIp	configCenter.h	/^	void SetOMGInterRedisIp(const string &strOMGInterRedisIp){$/;"	f	class:SubSvrInfo
+SetOMGInterRedisPort	configCenter.h	/^	void SetOMGInterRedisPort(const uint16_t &uwOMGInterRedisPort){$/;"	f	class:PubSvrInfo
+SetOMGInterRedisPort	configCenter.h	/^	void SetOMGInterRedisPort(const uint16_t &uwOMGInterRedisPort){$/;"	f	class:SubSvrInfo
+SetSrvId	configCenter.h	/^	void SetSrvId(const uint8_t &ucSrvId){$/;"	f	class:HubSvrInfo
+SetSrvId	configCenter.h	/^	void SetSrvId(const uint8_t &ucSrvId){$/;"	f	class:PubSvrInfo
+SetSrvId	configCenter.h	/^	void SetSrvId(const uint8_t &ucSrvId){$/;"	f	class:SubSvrInfo
+SetState	configCenter.h	/^	void SetState(const uint8_t &ucState){$/;"	f	class:HubSvrInfo
+SetState	configCenter.h	/^	void SetState(const uint8_t &ucState){$/;"	f	class:PubSvrInfo
+SetState	configCenter.h	/^	void SetState(const uint8_t &ucState){$/;"	f	class:SubSvrInfo
+SetSvrInfoTabName	localCfgFile.h	/^	void SetSvrInfoTabName(const string &strSvrInfoTabName){$/;"	f	class:LocalCfgFile
+SetSvrIp	localCfgFile.h	/^	void SetSvrIp(const string &strSvrIp){$/;"	f	class:LocalCfgFile
+SetSvrMonitorPort	localCfgFile.h	/^	void SetSvrMonitorPort(const uint16_t &uwSvrMonitorPort){$/;"	f	class:LocalCfgFile
+SetTEGInterCachePath	configCenter.h	/^	void SetTEGInterCachePath(const string &strInterDBPath){$/;"	f	class:PubSvrInfo
+SetTEGInterCachePath	configCenter.h	/^	void SetTEGInterCachePath(const string &strInterDBPath){$/;"	f	class:SubSvrInfo
+SetTEGUserProfSvrIP	localCfgFile.h	/^	void SetTEGUserProfSvrIP(const string &strTEGUserProfSvrIP){$/;"	f	class:LocalCfgFile
+SetTEGUserProfSvrPort	localCfgFile.h	/^	void SetTEGUserProfSvrPort(const uint16_t &uwUserProfSvrPort){$/;"	f	class:LocalCfgFile
+SetTagDBIp	localCfgFile.h	/^	void SetTagDBIp(const string &strTagDBIp){$/;"	f	class:LocalCfgFile
+SetTagDBName	localCfgFile.h	/^	void SetTagDBName(const string &strTagDBName){$/;"	f	class:LocalCfgFile
+SetTagDBPort	localCfgFile.h	/^	void SetTagDBPort(const uint16_t &uwTagDBPort){$/;"	f	class:LocalCfgFile
+SetTagDBPwd	localCfgFile.h	/^	void SetTagDBPwd(const string &strTagDBPwd){$/;"	f	class:LocalCfgFile
+SetTagDBUser	localCfgFile.h	/^	void SetTagDBUser(const string &strTagDBUser){$/;"	f	class:LocalCfgFile
+SetTagTopRateDBName	localCfgFile.h	/^	void SetTagTopRateDBName(const string &strTagTopRateDBName){$/;"	f	class:LocalCfgFile
+SetTagTopRateTabName	localCfgFile.h	/^	void SetTagTopRateTabName(const string &strTagTopRateTabName){$/;"	f	class:LocalCfgFile
+SetThreadPoolNum	configCenter.h	/^	void SetThreadPoolNum(const uint16_t &uwThreadPoolNum){$/;"	f	class:PubSvrInfo
+SetThreadPoolNum	configCenter.h	/^	void SetThreadPoolNum(const uint16_t &uwThreadPoolNum){$/;"	f	class:SubSvrInfo
+SetUptInterSecs	localCfgFile.h	/^	void SetUptInterSecs(const uint32_t &udwUptInterSecs){$/;"	f	class:LocalCfgFile
+SubSvrInfo	configCenter.h	/^class SubSvrInfo$/;"	c
+SubscribeCallback	hub.h	/^								muduo::Timestamp)> SubscribeCallback;$/;"	t	class:MainThread
+TEG_INTEREST	common.h	/^	TEG_INTEREST = 2,$/;"	e	enum:cmdType
+TEG_INTEREST_RET	common.h	/^	TEG_INTEREST_RET = 2,$/;"	e	enum:WorkerThreadRetType
+TEG_PROF	common.h	/^	TEG_PROF = 1,$/;"	e	enum:cmdType
+TEG_PROF_RET	common.h	/^	TEG_PROF_RET = 1,$/;"	e	enum:WorkerThreadRetType
+TcpClientPtr	common.h	/^typedef boost::shared_ptr<muduo::net::TcpClient> TcpClientPtr;$/;"	t
+TcpConnWeakPtr	common.h	/^typedef boost::weak_ptr<muduo::net::TcpConnection> TcpConnWeakPtr;$/;"	t
+TcpConnWeakPtrList	common.h	/^typedef set<TcpConnWeakPtr> TcpConnWeakPtrList;$/;"	t
+TcpConnWeakPtrListIter	common.h	/^typedef set<TcpConnWeakPtr>::iterator TcpConnWeakPtrListIter;$/;"	t
+TcpConnectionPtr	common.h	/^typedef boost::shared_ptr<muduo::net::TcpConnection> TcpConnectionPtr;$/;"	t
+TunnelPtr	Dispatch.h	/^typedef boost::shared_ptr<Dispatch> TunnelPtr;$/;"	t
+UserInfo	hub.h	/^				UserInfo(void):m_uddwQQ(0), m_lastUptTime(0), m_isInited(false){;}$/;"	f	class:UserInfo
+UserInfo	hub.h	/^class UserInfo$/;"	c
+WorkerThreadRetType	common.h	/^enum WorkerThreadRetType{$/;"	g
+client_	Dispatch.h	/^  muduo::net::TcpClient client_;$/;"	m	class:Dispatch
+cmdType	common.h	/^enum cmdType{$/;"	g
+connect	Dispatch.cpp	/^  void connect()$/;"	f	class:Dispatch
+disconnect	Dispatch.cpp	/^  void disconnect()$/;"	f	class:Dispatch
+doUnPub	hub.cpp	/^void MainThread::doUnPub(const TcpConnectionPtr& conn, const uint16_t &uwTopicID)$/;"	f	class:MainThread
+doUnSub	hub.cpp	/^void MainThread::doUnSub(const TcpConnectionPtr& conn, const uint16_t &uwTopicID)$/;"	f	class:MainThread
+errorType	common.h	/^enum errorType{$/;"	g
+findFirstColon	configCenter.cpp	/^const char* findFirstColon(const string &buf) const$/;"	f
+findSpace	ParseRecvMsg.cpp	/^const char* findSpace(const muduo::net::Buffer &buf, const char* start) const$/;"	f
+g_asyncLog	common.cpp	/^boost::scoped_ptr<muduo::AsyncLogging> g_asyncLog;$/;"	v
+g_exit	common.cpp	/^bool g_exit = false;            \/\/every thread check it when finish critical task$/;"	v
+g_failParseBQ	common.cpp	/^muduo::BlockingQueue<MonitorData> g_failParseBQ;  $/;"	v
+g_locCfgFile	common.cpp	/^LocalCfgFile g_locCfgFile;$/;"	v
+g_logSvrConfigObj	common.cpp	/^LogSvrConfig g_logSvrConfigObj;$/;"	v
+g_monitorBQ	common.cpp	/^muduo::BlockingQueue<MonitorData> g_monitorBQ;          \/\/ONLY support increment NOW, fix me$/;"	v
+g_spCountDownLatch	common.cpp	/^boost::shared_ptr<muduo::CountDownLatch> g_spCountDownLatch;$/;"	v
+getCurrIndex	hub.h	/^				const uint32_t& getCurrIndex(const uint16_t &uwTopicID){$/;"	f	class:UserInfo
+getLastUptTime	hub.h	/^				const muduo::TimeStamp &getLastUptTime(void){$/;"	f	class:UserInfo
+getUserID	hub.h	/^				const uint64_t& getUserID(void){$/;"	f	class:UserInfo
+hub	ParseRecvMsg.h	/^namespace hub$/;"	n
+init	configCenter.cpp	/^void LogSvrConfig::init(muduo::net::EventLoop *pEventLoop)$/;"	f	class:LogSvrConfig
+isInited	hub.h	/^				const bool &isInited(void){$/;"	f	class:UserInfo
+kContinue	ParseRecvMsg.h	/^  kContinue,$/;"	e	enum:hub::ParseResult
+kContinue	hubCodec.h	/^  kContinue,$/;"	e	enum:pubsub::ParseResult
+kError	ParseRecvMsg.h	/^  kError,$/;"	e	enum:hub::ParseResult
+kError	hubCodec.h	/^  kError,$/;"	e	enum:pubsub::ParseResult
+kSuccess	ParseRecvMsg.h	/^  kSuccess,$/;"	e	enum:hub::ParseResult
+kSuccess	hubCodec.h	/^  kSuccess,$/;"	e	enum:pubsub::ParseResult
+m_DBlink	configCenter.h	/^	TLIB_DB_LINK m_DBlink;$/;"	m	class:LogSvrConfig
+m_TabPubSvrInfo	configCenter.h	/^	PubSvrInfo m_TabPubSvrInfo;$/;"	m	class:LogSvrConfig
+m_TabSubSvrInfo	configCenter.h	/^	PubSvrInfo m_TabSubSvrInfo;$/;"	m	class:LogSvrConfig
+m_bCongestion	hub.h	/^				bool m_bCongestion;$/;"	m	class:ContextInfo
+m_isInited	hub.h	/^				bool m_isInited;$/;"	m	class:UserInfo
+m_lastUptTime	hub.h	/^				muduo::TimeStamp m_lastUptTime;$/;"	m	class:UserInfo
+m_lastWorkTime	hub.h	/^				muduo::Timestamp m_lastWorkTime;	\/\/for timewheel clear, fix me$/;"	m	class:ContextInfo
+m_mapKey2Val	handle_config_file.h	/^	map<string, string> m_mapKey2Val;$/;"	m	class:HandleConfigFile
+m_mapTopic2Index	hub.h	/^				map<uint16_t, uint32_t> m_mapTopic2Index;$/;"	m	class:UserInfo
+m_mapTopic2LoopList	hub.h	/^				map< uint16_t, set<muduo::net::EventLoop*> > m_mapTopic2LoopList;$/;"	m	class:MainThread
+m_mapTopic2PubSvrNum	hub.h	/^				map<uint16_t, uint16_t> m_mapTopic2PubSvrNum;	\/\/ONLY stat NOW$/;"	m	class:MainThread
+m_mutexLock	hub.h	/^				muduo::MutexLock m_mutexLock;$/;"	m	class:MainThread
+m_mutexTopic2LoopListLock	hub.h	/^				muduo::MutexLock m_mutexTopic2LoopListLock;$/;"	m	class:MainThread
+m_mutexTopic2SvrNumLock	hub.h	/^				muduo::MutexLock m_mutexTopic2SvrNumLock;$/;"	m	class:MainThread
+m_newestIndexTime	hub.h	/^		muduo::Timestamp m_newestIndexTime;$/;"	m	struct:topicInfo
+m_pCfgCenterEveLoop	hub.h	/^				muduo::net::EventLoop *m_pCfgCenterEveLoop;$/;"	m	class:MainThread
+m_pEveLoop	configCenter.h	/^	muduo::net::EventLoop *m_pEveLoop;$/;"	m	class:LogSvrConfig
+m_pubSvrList	configCenter.h	/^	set<PubSvrInfo> m_pubSvrList;$/;"	m	class:LogSvrConfig
+m_setEventLoop	hub.h	/^				set<muduo::net::EventLoop*> m_setEventLoop;$/;"	m	class:MainThread
+m_strAttrDesc	monitorData.h	/^	std::string m_strAttrDesc;$/;"	m	class:MonitorData
+m_strCfgDBIp	localCfgFile.h	/^	string m_strCfgDBIp;$/;"	m	class:LocalCfgFile
+m_strCfgDBName	localCfgFile.h	/^	string m_strCfgDBName;$/;"	m	class:LocalCfgFile
+m_strCfgDBPwd	localCfgFile.h	/^	string m_strCfgDBPwd;$/;"	m	class:LocalCfgFile
+m_strCfgDBUser	localCfgFile.h	/^	string m_strCfgDBUser;$/;"	m	class:LocalCfgFile
+m_strChgInfoTabName	localCfgFile.h	/^	string m_strChgInfoTabName;$/;"	m	class:LocalCfgFile
+m_strLocProcLogPath	localCfgFile.h	/^	string m_strLocProcLogPath;$/;"	m	class:LocalCfgFile
+m_strMappingTabName	localCfgFile.h	/^	string m_strMappingTabName;$/;"	m	class:LocalCfgFile
+m_strRemark	configCenter.h	/^	string m_strRemark;$/;"	m	class:HubSvrInfo
+m_strRemark	configCenter.h	/^	string m_strRemark;$/;"	m	class:PubSvrInfo
+m_strRemark	configCenter.h	/^	string m_strRemark;$/;"	m	class:SubSvrInfo
+m_strRole	hub.h	/^				string m_strRole;	\/\/ sub\/plub$/;"	m	class:ContextInfo
+m_strSvrInfoTabName	localCfgFile.h	/^	string m_strSvrInfoTabName;$/;"	m	class:LocalCfgFile
+m_strSvrIp	configCenter.h	/^	string m_strSvrIp;	$/;"	m	class:PubSvrInfo
+m_strSvrIp	configCenter.h	/^	string m_strSvrIp;$/;"	m	class:HubSvrInfo
+m_strSvrIp	configCenter.h	/^	string m_strSvrIp;$/;"	m	class:SubSvrInfo
+m_strSvrIp	localCfgFile.h	/^	string m_strSvrIp;$/;"	m	class:LocalCfgFile
+m_strTEGUserProfSvrIP	localCfgFile.h	/^	string m_strTEGUserProfSvrIP;$/;"	m	class:LocalCfgFile
+m_strTagDBIp	localCfgFile.h	/^	string m_strTagDBIp;$/;"	m	class:LocalCfgFile
+m_strTagDBName	localCfgFile.h	/^	string m_strTagDBName;$/;"	m	class:LocalCfgFile
+m_strTagDBPwd	localCfgFile.h	/^	string m_strTagDBPwd;$/;"	m	class:LocalCfgFile
+m_strTagDBUser	localCfgFile.h	/^	string m_strTagDBUser;$/;"	m	class:LocalCfgFile
+m_strTagTopRateDBName	localCfgFile.h	/^	string m_strTagTopRateDBName;$/;"	m	class:LocalCfgFile
+m_strTagTopRateTabName	localCfgFile.h	/^	string m_strTagTopRateTabName;$/;"	m	class:LocalCfgFile
+m_subSvrList	configCenter.h	/^	set<SubSvrInfo> m_subSvrList;$/;"	m	class:LogSvrConfig
+m_tcpSvr	hub.h	/^				muduo::net::TcpServer m_tcpSvr;$/;"	m	class:MainThread
+m_tcpSvr4IndexUpt	hub.h	/^				muduo::net::TcpServer m_tcpSvr4IndexUpt;$/;"	m	class:MainThread
+m_topic2Info	hub.h	/^				map<uint16_t, topicInfo> m_topic2Info;\/\/use for global use$/;"	m	class:MainThread
+m_ucLogLevel	configCenter.h	/^	uint8_t m_ucLogLevel;$/;"	m	class:HubSvrInfo
+m_ucRole	configCenter.h	/^	uint8_t m_ucRole;		\/\/ main\/back-up$/;"	m	class:HubSvrInfo
+m_ucState	configCenter.h	/^	uint8_t m_ucState;		\/\/active\/unactive$/;"	m	class:SubSvrInfo
+m_ucState	configCenter.h	/^	uint8_t m_ucState;		\/\/working\/idle$/;"	m	class:HubSvrInfo
+m_ucState	configCenter.h	/^	uint8_t m_ucState;	\/\/active\/unactive$/;"	m	class:PubSvrInfo
+m_uddwQQ	hub.h	/^				uint64_t m_uddwQQ;$/;"	m	class:UserInfo
+m_udwAttrID	monitorData.h	/^	uint32_t m_udwAttrID;$/;"	m	class:MonitorData
+m_udwLastChgTime	configCenter.h	/^	uint32_t m_udwLastChgTime;$/;"	m	class:HubSvrInfo
+m_udwLastChgTime	configCenter.h	/^	uint32_t m_udwLastChgTime;$/;"	m	class:PubSvrInfo
+m_udwLastChgTime	configCenter.h	/^	uint32_t m_udwLastChgTime;$/;"	m	class:SubSvrInfo
+m_udwRealIndex	hub.h	/^		uint32_t m_udwRealIndex;\/\/back up$/;"	m	struct:topicInfo
+m_udwTotalIndex	hub.h	/^		uint32_t m_udwTotalIndex;$/;"	m	struct:topicInfo
+m_udwUptInterSecs	localCfgFile.h	/^	uint32_t m_udwUptInterSecs;$/;"	m	class:LocalCfgFile
+m_uwCfgDBPort	localCfgFile.h	/^	uint16_t m_uwCfgDBPort;$/;"	m	class:LocalCfgFile
+m_uwDispatchID	configCenter.h	/^	uint16_t m_uwDispatchID;$/;"	m	class:PubSvrInfo
+m_uwDispatchID	configCenter.h	/^	uint16_t m_uwDispatchID;$/;"	m	class:SubSvrInfo
+m_uwMainSvrPort	localCfgFile.h	/^	uint16_t m_uwMainSvrPort;	\/\/use for restart and other control$/;"	m	class:LocalCfgFile
+m_uwManuFetchSvrInfoPort	localCfgFile.h	/^	uint16_t m_uwManuFetchSvrInfoPort;$/;"	m	class:LocalCfgFile
+m_uwSrvId	configCenter.h	/^	uint16_t m_uwSrvId;		\/\/key$/;"	m	class:SubSvrInfo
+m_uwSrvId	configCenter.h	/^	uint16_t m_uwSrvId;	\/\/key$/;"	m	class:PubSvrInfo
+m_uwSrvId	configCenter.h	/^	uint16_t m_uwSrvId;$/;"	m	class:HubSvrInfo
+m_uwSvrMonitorPort	localCfgFile.h	/^	uint16_t m_uwSvrMonitorPort;$/;"	m	class:LocalCfgFile
+m_uwSvrPort	configCenter.h	/^	uint16_t m_uwSvrPort;	$/;"	m	class:PubSvrInfo
+m_uwSvrPort	configCenter.h	/^	uint16_t m_uwSvrPort;$/;"	m	class:HubSvrInfo
+m_uwSvrPort	configCenter.h	/^	uint16_t m_uwSvrPort;$/;"	m	class:SubSvrInfo
+m_uwTEGUserProfSvrPort	localCfgFile.h	/^	uint16_t m_uwTEGUserProfSvrPort;$/;"	m	class:LocalCfgFile
+m_uwTagDBPort	localCfgFile.h	/^	uint16_t m_uwTagDBPort;$/;"	m	class:LocalCfgFile
+m_uwTopicID	hub.h	/^				uint16_t m_uwTopicID;$/;"	m	class:ContextInfo
+m_uwTopicID	hub.h	/^		uint16_t m_uwTopicID;$/;"	m	struct:topicInfo
+needUpt	hub.h	/^		bool needUpt;$/;"	m	struct:topicInfo
+onClientConnection	Dispatch.cpp	/^  void onClientConnection(const muduo::net::TcpConnectionPtr& conn)$/;"	f	class:Dispatch
+onClientMessage	Dispatch.cpp	/^  void onClientMessage(const muduo::net::TcpConnectionPtr& conn,$/;"	f	class:Dispatch
+onConnection	configCenter.cpp	/^void LogSvrConfig::onConnection(const muduo::net::TcpConnectionPtr &conn)$/;"	f	class:LogSvrConfig
+onConnection	hub.cpp	/^void MainThread::onConnection(const TcpConnectionPtr& conn)$/;"	f	class:MainThread
+onHighWaterMark	Dispatch.cpp	/^  void onHighWaterMark(const muduo::net::TcpConnectionPtr& conn,$/;"	f	class:Dispatch
+onHighWaterMarkWeak	Dispatch.cpp	/^  static void onHighWaterMarkWeak(const boost::weak_ptr<Dispatch>& wkTunnel,$/;"	f	class:Dispatch
+onMessage	configCenter.cpp	/^void LogSvrConfig::onMessage(const muduo::net::TcpConnectionPtr &conn$/;"	f	class:LogSvrConfig
+onWriteComplete	hub.cpp	/^void MainThread::onWriteComplete(const TcpConnectionPtr& conn)  $/;"	f	class:MainThread
+parseMessage	ParseRecvMsg.cpp	/^ParseResult pubsub::parseMessage(Buffer* buf,$/;"	f	class:pubsub
+parseMessage	hubCodec.cpp	/^ParseResult pubsub::parseMessage(Buffer* buf,$/;"	f	class:pubsub
+pubsub	hubCodec.h	/^namespace pubsub$/;"	n
+reset	hub.h	/^				void reset(const string &strRole, const uint16_t &uwTopicID, muduo::Timestamp lastWorkTime, bool bCongestion = false)$/;"	f	class:ContextInfo
+setCurrIndex	hub.h	/^				void setCurrIndex(const uint32_t &udwCurrIndex){$/;"	f	class:UserInfo
+setInitedFlag	hub.h	/^				void setInitedFlag(const bool &bInitedFlag){$/;"	f	class:UserInfo
+setThreadNum	hub.h	/^				void setThreadNum(const uint8_t &ucThreadNum){$/;"	f	class:MainThread
+setTopicID	hub.h	/^				void setTopicID(const uint16_t &uwTopicID){$/;"	f	class:UserInfo
+setUptTime	hub.h	/^				void setUptTime(const muduo::Timestamp &timestamp){$/;"	f	class:UserInfo
+setUserID	hub.h	/^				void setUserID(const uint64_t &uddwUserID){$/;"	f	class:UserInfo
+setup	Dispatch.cpp	/^  void setup()$/;"	f	class:Dispatch
+start	hub.cpp	/^void MainThread::start(void)$/;"	f	class:MainThread
+teardown	Dispatch.cpp	/^  void teardown()$/;"	f	class:Dispatch
+topicInfo	hub.h	/^		topicInfo(void):m_uwTopicID(0), m_udwTotalIndex(0), m_udwRealIndex(0), m_newestIndexTime(0), needUpt(false){;}$/;"	f	struct:topicInfo
+topicInfo	hub.h	/^struct topicInfo$/;"	s
+trim	handle_config_file.cpp	/^string HandleConfigFile::trim(const string &str)$/;"	f	class:HandleConfigFile
+ucCheckHeartBeatTimeInter	hub.h	/^				static const uint8_t ucCheckHeartBeatTimeInter = 20; \/\/20 secs NOT receive heartbeat$/;"	m	class:MainThread
+ucCheckTimeInter	hub.h	/^				static const uint8_t ucCheckTimeInter = 10;	\/\/10 secs$/;"	m	class:MainThread
+uptActiveTime	hub.h	/^				void uptActiveTime(const muduo::Timestamp &timestamp){$/;"	f	class:ContextInfo
+uptCurrIndex	hub.h	/^				void uptCurrIndex(const uint16_t &uwTopicID, const uint32_t &udwCurrIndex){$/;"	f	class:UserInfo
+uptPubSubInfo	configCenter.cpp	/^void LogSvrConfig::uptPubSubInfo(const string &strCmd, const uint16_t &uwTopicID$/;"	f	class:LogSvrConfig
+~Dispatch	Dispatch.h	/^  ~Dispatch()$/;"	f	class:Dispatch
+~HubSvrInfo	configCenter.h	/^	~HubSvrInfo(void){$/;"	f	class:HubSvrInfo
+~LocalCfgFile	localCfgFile.h	/^	~LocalCfgFile(void){$/;"	f	class:LocalCfgFile
+~LogSvrConfig	configCenter.h	/^	~LogSvrConfig(void){$/;"	f	class:LogSvrConfig
+~MainThread	hub.h	/^				~MainThread(void){$/;"	f	class:MainThread
+~MonitorThread	monitorThread.h	/^	~MonitorThread(void){$/;"	f	class:MonitorThread
+~PubSvrInfo	configCenter.h	/^	~PubSvrInfo(void){$/;"	f	class:PubSvrInfo
+~PubSvrInfo	configCenter.h	/^	~PubSvrInfo(void){$/;"	f	class:SubSvrInfo
